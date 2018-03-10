@@ -1,0 +1,12 @@
+D:\Project\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+D:\Project\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+D:\Project\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+D:\Project\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+D:\Project\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+D:\Project\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+F:\System Programming\Done\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+F:\System Programming\Done\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+F:\System Programming\Done\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+F:\System Programming\Done\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+F:\System Programming\Done\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+F:\System Programming\Done\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
