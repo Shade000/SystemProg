@@ -1,0 +1,18 @@
+D:\Project\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+D:\Project\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+D:\Project\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+D:\Project\ClassWork\ClassWork\obj\Debug\ClassWork.csprojResolveAssemblyReference.cache
+D:\Project\ClassWork\ClassWork\obj\Debug\ClassWork.MainForm.resources
+D:\Project\ClassWork\ClassWork\obj\Debug\ClassWork.Properties.Resources.resources
+D:\Project\ClassWork\ClassWork\obj\Debug\ClassWork.csproj.GenerateResource.Cache
+D:\Project\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+D:\Project\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
+F:\System Programming\Done\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+F:\System Programming\Done\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+F:\System Programming\Done\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
+F:\System Programming\Done\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+F:\System Programming\Done\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+F:\System Programming\Done\ClassWork\ClassWork\obj\Debug\ClassWork.csprojResolveAssemblyReference.cache
+F:\System Programming\Done\ClassWork\ClassWork\obj\Debug\ClassWork.MainForm.resources
+F:\System Programming\Done\ClassWork\ClassWork\obj\Debug\ClassWork.Properties.Resources.resources
+F:\System Programming\Done\ClassWork\ClassWork\obj\Debug\ClassWork.csproj.GenerateResource.Cache
