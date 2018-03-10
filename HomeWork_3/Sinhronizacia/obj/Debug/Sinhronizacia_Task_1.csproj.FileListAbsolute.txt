@@ -1,0 +1,5 @@
+D:\Project\Sinhronizacia\Sinhronizacia\bin\Debug\Sinhronizacia.exe.config
+D:\Project\Sinhronizacia\Sinhronizacia\bin\Debug\Sinhronizacia.exe
+D:\Project\Sinhronizacia\Sinhronizacia\bin\Debug\Sinhronizacia.pdb
+D:\Project\Sinhronizacia\Sinhronizacia\obj\Debug\Sinhronizacia.exe
+D:\Project\Sinhronizacia\Sinhronizacia\obj\Debug\Sinhronizacia.pdb
