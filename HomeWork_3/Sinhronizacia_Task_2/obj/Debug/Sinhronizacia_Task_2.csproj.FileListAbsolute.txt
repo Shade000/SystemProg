@@ -1,0 +1,6 @@
+D:\Project\Sinhronizacia\Sinhronizacia_Task_2\bin\Debug\Sinhronizacia_Task_2.exe.config
+D:\Project\Sinhronizacia\Sinhronizacia_Task_2\bin\Debug\Sinhronizacia_Task_2.exe
+D:\Project\Sinhronizacia\Sinhronizacia_Task_2\bin\Debug\Sinhronizacia_Task_2.pdb
+D:\Project\Sinhronizacia\Sinhronizacia_Task_2\obj\Debug\Sinhronizacia_Task_2.csprojResolveAssemblyReference.cache
+D:\Project\Sinhronizacia\Sinhronizacia_Task_2\obj\Debug\Sinhronizacia_Task_2.exe
+D:\Project\Sinhronizacia\Sinhronizacia_Task_2\obj\Debug\Sinhronizacia_Task_2.pdb
