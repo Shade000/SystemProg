@@ -1,0 +1,49 @@
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csprojResolveAssemblyReference.cache
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.MainForm.resources
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.Properties.Resources.resources
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.GenerateResource.Cache
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.CoreCompileInputs.cache
+D:\M\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe.config
+D:\M\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe
+D:\M\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.pdb
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.exe
+D:\M\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.pdb
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe.config
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.pdb
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csprojResolveAssemblyReference.cache
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.MainForm.resources
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.Properties.Resources.resources
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.GenerateResource.Cache
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.CoreCompileInputs.cache
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.exe
+F:\System_Programming\HomeTask\ZD_2\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.pdb
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe.config
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.pdb
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csprojResolveAssemblyReference.cache
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.MainForm.resources
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.Properties.Resources.resources
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.GenerateResource.Cache
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.CoreCompileInputs.cache
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.exe
+F:\System Programming\System_Programmig\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.pdb
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe.config
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.pdb
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csprojResolveAssemblyReference.cache
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.MainForm.resources
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.Properties.Resources.resources
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.GenerateResource.Cache
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.CoreCompileInputs.cache
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.exe
+F:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.pdb
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe.config
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.exe
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.pdb
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.exe
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\bin\Debug\CopyFile_Threads.pdb
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csprojResolveAssemblyReference.cache
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.MainForm.resources
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.Properties.Resources.resources
+E:\System Programming\Домашки\CopyFile_Threads\CopyFile_Threads\obj\Debug\CopyFile_Threads.csproj.GenerateResource.Cache
