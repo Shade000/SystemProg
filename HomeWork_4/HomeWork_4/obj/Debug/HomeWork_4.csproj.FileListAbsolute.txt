@@ -1,0 +1,9 @@
+D:\Project\HomeWork_4\HomeWork_4\bin\Debug\HomeWork_4.exe.config
+D:\Project\HomeWork_4\HomeWork_4\bin\Debug\HomeWork_4.exe
+D:\Project\HomeWork_4\HomeWork_4\bin\Debug\HomeWork_4.pdb
+D:\Project\HomeWork_4\HomeWork_4\obj\Debug\HomeWork_4.csprojResolveAssemblyReference.cache
+D:\Project\HomeWork_4\HomeWork_4\obj\Debug\HomeWork_4.MainForm.resources
+D:\Project\HomeWork_4\HomeWork_4\obj\Debug\HomeWork_4.Properties.Resources.resources
+D:\Project\HomeWork_4\HomeWork_4\obj\Debug\HomeWork_4.csproj.GenerateResource.Cache
+D:\Project\HomeWork_4\HomeWork_4\obj\Debug\HomeWork_4.exe
+D:\Project\HomeWork_4\HomeWork_4\obj\Debug\HomeWork_4.pdb
